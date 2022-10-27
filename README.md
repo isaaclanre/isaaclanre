@@ -2,11 +2,13 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=isaaclanre.isaaclanre)](https://github.com/isaaclanre) [![GitHub followers](https://img.shields.io/github/followers/isaaclanre.svg?style=social&label=Follow)](https://github.com/isaaclanre?tab=followers)
 
-<p>I am a software developer with a cumulative of 2 years experience, 1 year of non-commercial experience and 1 year of commercial experience. My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
+<p>I am a software developer with over 3 years experience. My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
 </p>
 <p>
 If it will solve a problem, I want to be part of it. Solving problems excites me. My focus is always on the problem, I take my time to think out critically and come up with an optimal solution before converting the solution to clean and executable codes.
 </p>
+
+If you will like to go through my resume, you can find it right <a href="https://github.com/isaaclanre/resume">here</a> 
 
 #### Also check my LinkedIn profile for more about me.
 
